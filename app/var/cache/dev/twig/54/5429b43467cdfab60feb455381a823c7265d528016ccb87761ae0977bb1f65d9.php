@@ -136,6 +136,6 @@ class __TwigTemplate_e49359d9f0ef71524f986a32310249541dffbcc7092ae0c300f128cb028
 
     <a href=\"{{ path('formations_index1') }}\"><button class=\"btn\">Retour vers la liste des formations</button></a>
 {% endblock %}
-", "formations/new.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\formations\\new.html.twig");
+", "formations/new.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\formations\\new.html.twig");
     }
 }

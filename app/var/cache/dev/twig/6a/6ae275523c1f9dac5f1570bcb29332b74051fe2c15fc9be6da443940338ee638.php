@@ -471,6 +471,6 @@ class __TwigTemplate_4fad87d590a23f566b760dd153156fba5202f1455c1dcc771d5b6f0704e
         </div>
     {% endif %}
 {% endblock %}
-", "@WebProfiler/Collector/twig.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\twig.html.twig");
+", "@WebProfiler/Collector/twig.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\twig.html.twig");
     }
 }

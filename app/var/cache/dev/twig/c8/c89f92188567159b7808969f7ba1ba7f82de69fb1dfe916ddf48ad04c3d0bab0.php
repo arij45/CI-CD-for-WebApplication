@@ -134,6 +134,6 @@ class __TwigTemplate_000be4b2f5b64be1179a48310c277ad3c213ac2ab0ff1482b0ae5f768ed
   <br>
   <br> 
 <h1 align=\"center\"> Espace Administration </h1>
- {% endblock %}", "admin.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\admin.html.twig");
+ {% endblock %}", "admin.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\admin.html.twig");
     }
 }

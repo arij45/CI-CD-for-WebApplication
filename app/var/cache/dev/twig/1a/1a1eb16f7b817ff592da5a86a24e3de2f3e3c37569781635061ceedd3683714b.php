@@ -276,6 +276,6 @@ class __TwigTemplate_d6c35960f952ccd716b8729b82d4f0e393fb01b173a22b8ab6568fb1ce0
             {{ form(commentaireForm)}}
      
 {% endblock %}
-", "formations/show.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\formations\\show.html.twig");
+", "formations/show.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\formations\\show.html.twig");
     }
 }

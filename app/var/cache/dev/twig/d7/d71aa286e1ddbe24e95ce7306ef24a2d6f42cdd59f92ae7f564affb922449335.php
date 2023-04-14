@@ -243,6 +243,6 @@ class __TwigTemplate_62aed88ff50d50bfa9e9d7f5d244ad4105b8d79805b325322249dfd27e8
      <br>
         {{ knp_pagination_render(messages) }}
 {% endblock %}
-", "messages/index.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\messages\\index.html.twig");
+", "messages/index.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\messages\\index.html.twig");
     }
 }

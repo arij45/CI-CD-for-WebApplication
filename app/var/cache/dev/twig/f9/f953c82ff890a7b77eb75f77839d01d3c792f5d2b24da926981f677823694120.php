@@ -79,6 +79,6 @@ class __TwigTemplate_80e1c8c2b3165196b3369c9aab2c4c3486a6d7db53080e4b0b0f459caf3
     <input type=\"hidden\" name=\"_token\" value=\"{{ csrf_token('delete' ~ inscription.id) }}\">
     <button class=\"btn\">Supprimer</button>
 </form>
-", "inscription/_delete_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\inscription\\_delete_form.html.twig");
+", "inscription/_delete_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\inscription\\_delete_form.html.twig");
     }
 }

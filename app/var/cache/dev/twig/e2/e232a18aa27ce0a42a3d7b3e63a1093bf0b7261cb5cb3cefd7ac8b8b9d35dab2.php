@@ -130,6 +130,6 @@ class __TwigTemplate_b6f55c8bdffc9fdc9f51a4cf38adeba66e3cf2e2ed0aff6df11b1e171c4
     {{ include('suggestions/_form.html.twig') }}
 
 {% endblock %}
-", "suggestions/new2.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\suggestions\\new2.html.twig");
+", "suggestions/new2.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\suggestions\\new2.html.twig");
     }
 }

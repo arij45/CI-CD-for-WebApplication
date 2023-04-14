@@ -79,6 +79,6 @@ class __TwigTemplate_8a7ef7b4c2c24ad125f004e9f57498c1a775bba9909091057e2b4425658
     <input type=\"hidden\" name=\"_token\" value=\"{{ csrf_token('delete' ~ commentaire.id) }}\">
     <button class=\"btn\">Supprimer</button>
 </form>
-", "commentaires/_delete_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\commentaires\\_delete_form.html.twig");
+", "commentaires/_delete_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\commentaires\\_delete_form.html.twig");
     }
 }

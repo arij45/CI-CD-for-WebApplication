@@ -209,6 +209,6 @@ class __TwigTemplate_fbb207b4e09372491fb6904eb8eb75955c4da067f75e148cfef7fdfc3fb
 
 
 {% endblock %}
-", "inscription/show.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\inscription\\show.html.twig");
+", "inscription/show.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\inscription\\show.html.twig");
     }
 }

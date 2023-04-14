@@ -220,6 +220,6 @@ class __TwigTemplate_38805b41a6afabc6bc0ebbda674fbcc6f98154cdf7dc62335c1661bd02c
         });
     </script>
 {% endblock %}
-", "formations/calendar2.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\formations\\calendar2.html.twig");
+", "formations/calendar2.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\formations\\calendar2.html.twig");
     }
 }

@@ -126,6 +126,6 @@ class __TwigTemplate_cc23b656281c705fb08d64edf21685b94d50c5d0d0ec43c877ba58e4101
 
     {{ include('messages/_form.html.twig') }}
 {% endblock %}
-", "messages/new.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\messages\\new.html.twig");
+", "messages/new.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\messages\\new.html.twig");
     }
 }

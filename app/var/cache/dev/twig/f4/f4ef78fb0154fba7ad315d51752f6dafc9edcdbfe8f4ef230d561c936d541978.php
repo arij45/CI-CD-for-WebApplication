@@ -81,6 +81,6 @@ class __TwigTemplate_7bcbcd75bfb177af5ccb248c352e38308f70af53fdc246232e50dac1e8b
         return new Source("{{ form_start(inscriptionForm) }}
     {{ form_widget(inscriptionForm) }}
 <button class=\"btn\">{{ button_label|default('valider') }}</button>
-{{ form_end(inscriptionForm) }}", "inscription/_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\inscription\\_form.html.twig");
+{{ form_end(inscriptionForm) }}", "inscription/_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\inscription\\_form.html.twig");
     }
 }

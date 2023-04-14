@@ -165,6 +165,6 @@ class __TwigTemplate_ec17ff3da3b76dc2b44a130761255e81d46b0a9e14b83759e632b485797
             {% endfor %}
         </div>
         </div>
-{% endblock %}", "formations/recherche/Recherche_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\formations\\recherche\\Recherche_form.html.twig");
+{% endblock %}", "formations/recherche/Recherche_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\formations\\recherche\\Recherche_form.html.twig");
     }
 }

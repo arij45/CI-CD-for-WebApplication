@@ -196,6 +196,6 @@ class __TwigTemplate_0fe590770c8e6a591b5696b3f2892f1cd98fb90214f6541f429d0f280e6
         </a>
     {% endif %}
 </div>
-", "@KnpPaginator/Pagination/semantic_ui_pagination.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\vendor\\knplabs\\knp-paginator-bundle\\templates\\Pagination\\semantic_ui_pagination.html.twig");
+", "@KnpPaginator/Pagination/semantic_ui_pagination.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\vendor\\knplabs\\knp-paginator-bundle\\templates\\Pagination\\semantic_ui_pagination.html.twig");
     }
 }

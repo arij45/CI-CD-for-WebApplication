@@ -211,6 +211,6 @@ class __TwigTemplate_f0480288147c4156dc7dfd3ea00afc78fbeb1a41e58ca1fad57e373df91
 
 
 {% endblock %}
-", "registration/register.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\registration\\register.html.twig");
+", "registration/register.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\registration\\register.html.twig");
     }
 }

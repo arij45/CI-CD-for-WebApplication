@@ -84,6 +84,6 @@ class __TwigTemplate_a905362ddb929a294e14a58c42e4e82fcf9340c31d480e108fe7fd85ac7
     {{ form_widget(form) }}
     <button class=\"btn\">{{ button_label|default('Envoyer') }}</button>
 {{ form_end(form) }}
-", "suggestions/_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\suggestions\\_form.html.twig");
+", "suggestions/_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\suggestions\\_form.html.twig");
     }
 }

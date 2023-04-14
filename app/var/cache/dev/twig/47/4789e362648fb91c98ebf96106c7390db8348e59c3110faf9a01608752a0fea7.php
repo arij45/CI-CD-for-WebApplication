@@ -143,6 +143,6 @@ class __TwigTemplate_e55613f35a0149adbcd0dfc00fcd3f36d1771feefaa5a425eb6afad5f36
 
     {{ include('formateurs/_delete_form.html.twig') }}
 {% endblock %}
-", "formateurs/edit.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\formateurs\\edit.html.twig");
+", "formateurs/edit.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\formateurs\\edit.html.twig");
     }
 }

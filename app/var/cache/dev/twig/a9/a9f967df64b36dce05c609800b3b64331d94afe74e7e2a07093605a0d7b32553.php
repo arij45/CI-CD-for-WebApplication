@@ -319,6 +319,6 @@ h3,h4{
 }
 table tr:hover {
     background-color:#ff950d ;
-}", "style1.css", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\style1.css");
+}", "style1.css", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\style1.css");
     }
 }

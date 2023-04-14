@@ -137,6 +137,6 @@ class __TwigTemplate_1196bf6d4862f0c6bad837360dd3418a872c7dea7bc1271e41d6377f2d0
 
     <a href=\"{{ path('formateurs_index') }}\"><button class=\"btn\">Retour à la liste des formateurs</button></a>
 {% endblock %}
-", "formateurs/new.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\formateurs\\new.html.twig");
+", "formateurs/new.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\formateurs\\new.html.twig");
     }
 }

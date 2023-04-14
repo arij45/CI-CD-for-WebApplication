@@ -133,6 +133,6 @@ class __TwigTemplate_235beaa2791457dd32c5193f67f1318681d974b455fbeb0075e18c4ab80
   <br>
   <br>   
 <h1 align=\"center\"> Espace étudiant </h1>
- {% endblock %}", "etudiant.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\etudiant.html.twig");
+ {% endblock %}", "etudiant.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\etudiant.html.twig");
     }
 }

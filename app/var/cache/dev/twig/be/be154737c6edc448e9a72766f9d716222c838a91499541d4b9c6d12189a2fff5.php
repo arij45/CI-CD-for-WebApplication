@@ -88,6 +88,6 @@ class __TwigTemplate_d009fd34d227a250ccc38dc2ffc08c519a7a891ba058c140d48ee61df64
   <a class=\"nav-link\" id=\"v-pills-messages-tab\" data-toggle=\"pill\" href=\"{{path('messages_new2')}}\" role=\"tab\" aria-controls=\"v-pills-messages\" aria-selected=\"false\">Envoyer un message</a>
     <a class=\"nav-link\" id=\"v-pills-settings-tab\" data-toggle=\"pill\" href=\"{{ path('formations_index2') }}\" role=\"tab\" aria-controls=\"v-pills-settings\" aria-selected=\"false\">Calendrier des formations</a>
   <a class=\"nav-link\" id=\"v-pills-settings-tab\" data-toggle=\"pill\" href=\"{{ path('home') }}\" role=\"tab\" aria-controls=\"v-pills-settings\" aria-selected=\"false\">Logout</a>
-</div>", "navbarVertical2.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\navbarVertical2.html.twig");
+</div>", "navbarVertical2.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\navbarVertical2.html.twig");
     }
 }

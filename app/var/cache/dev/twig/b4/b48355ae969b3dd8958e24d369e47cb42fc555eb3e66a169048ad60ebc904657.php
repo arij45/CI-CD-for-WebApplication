@@ -315,6 +315,6 @@ input, select {
 }
 table tr:hover {
     background-color:#ff950d ;
-}", "style.css", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\style.css");
+}", "style.css", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\style.css");
     }
 }

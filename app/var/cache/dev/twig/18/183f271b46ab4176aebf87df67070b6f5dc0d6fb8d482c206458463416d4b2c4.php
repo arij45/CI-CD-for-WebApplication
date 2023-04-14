@@ -84,6 +84,6 @@ class __TwigTemplate_60ef156635576adc9b3dcc27b732407e923f29ed54be0738e14c6d160ad
     {{ form_widget(form) }}
     <button class=\"btn\">{{ button_label|default('Save') }}</button>
 {{ form_end(form) }}
-", "commentaires/_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\commentaires\\_form.html.twig");
+", "commentaires/_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\commentaires\\_form.html.twig");
     }
 }

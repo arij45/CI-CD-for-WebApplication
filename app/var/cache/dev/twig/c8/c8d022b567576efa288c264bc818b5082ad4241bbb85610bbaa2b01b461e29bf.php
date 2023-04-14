@@ -268,6 +268,6 @@ class __TwigTemplate_7533df61b11d9a93f464e87c3ab9474280efb6e8a45485065d5cd281652
         <br>
     
 {% endblock %}
-", "formations/index1.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\formations\\index1.html.twig");
+", "formations/index1.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\formations\\index1.html.twig");
     }
 }

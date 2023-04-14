@@ -176,6 +176,6 @@ class __TwigTemplate_06556cda447eab020eb24f99dc9301c7d8c57a906b4aef4e342aabc2b0c
      {{ include('suggestions/_delete_form.html.twig') }}
     <a href=\"{{ path('suggestions_index') }}\"><button class=\"btn\">Retour à la liste des suggestions</button></a>
 {% endblock %}
-", "suggestions/show.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\suggestions\\show.html.twig");
+", "suggestions/show.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\suggestions\\show.html.twig");
     }
 }

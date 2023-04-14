@@ -79,6 +79,6 @@ class __TwigTemplate_5fc5d118f66dd7f5f768a3c50873f0ef6899370dce8847449f583a2ca2b
     <input type=\"hidden\" name=\"_token\" value=\"{{ csrf_token('delete' ~ suggestion.id) }}\">
     <button class=\"btn\">Supprimer</button>
 </form>
-", "suggestions/_delete_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\suggestions\\_delete_form.html.twig");
+", "suggestions/_delete_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\suggestions\\_delete_form.html.twig");
     }
 }

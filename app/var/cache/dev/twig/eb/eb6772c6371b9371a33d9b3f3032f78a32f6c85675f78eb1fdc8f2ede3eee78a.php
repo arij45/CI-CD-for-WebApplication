@@ -173,6 +173,6 @@ class __TwigTemplate_3601ce94ef965257ae72dfb755d9b971bda580c9aa92db7d7495683cab5
         
 
    {% endblock %}
-", "registration/accueil.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\registration\\accueil.html.twig");
+", "registration/accueil.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\registration\\accueil.html.twig");
     }
 }

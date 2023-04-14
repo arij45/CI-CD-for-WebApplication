@@ -247,6 +247,6 @@ class __TwigTemplate_99fa4ff1fe6def642e55fdec5771e2e56a9e6cbd55a05ddd7901a90d6ae
     <br>
      {{ knp_pagination_render(formations) }}
 {% endblock %}
-", "formations/index2.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\formations\\index2.html.twig");
+", "formations/index2.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\formations\\index2.html.twig");
     }
 }

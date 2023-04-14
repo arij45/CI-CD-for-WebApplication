@@ -242,6 +242,6 @@ class __TwigTemplate_0aca44bbc07436d9d9502e836878ca52da9e0980c6e52413d936f1ce6a1
         {{ knp_pagination_render(inscriptions) }}
 
 {% endblock %}
-", "inscription/index.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\inscription\\index.html.twig");
+", "inscription/index.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\inscription\\index.html.twig");
     }
 }

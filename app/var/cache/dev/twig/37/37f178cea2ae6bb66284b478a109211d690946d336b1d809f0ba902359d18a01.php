@@ -140,6 +140,6 @@ class __TwigTemplate_9a437ac58e928cf76b1ab963dbde7709c17b45c4f5e1bc32dfb220baad5
 
     {{ include('commentaires/_delete_form.html.twig') }}
 {% endblock %}
-", "commentaires/edit.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\commentaires\\edit.html.twig");
+", "commentaires/edit.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\commentaires\\edit.html.twig");
     }
 }

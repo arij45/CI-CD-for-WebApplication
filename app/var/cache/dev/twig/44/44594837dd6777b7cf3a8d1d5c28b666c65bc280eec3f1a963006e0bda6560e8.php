@@ -133,6 +133,6 @@ class __TwigTemplate_39b5c9a86fe829cfa008e0d2ce0dc0d17fec1ff744fc87c07d4aec9e084
 
     <a href=\"{{ path('commentaires_index') }}\">Retour à la liste</a>
 {% endblock %}
-", "commentaires/new.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\commentaires\\new.html.twig");
+", "commentaires/new.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\commentaires\\new.html.twig");
     }
 }

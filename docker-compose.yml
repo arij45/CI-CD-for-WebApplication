@@ -1,15 +1,16 @@
 version: '3.7'
 services:
   php:
-    image : arijkortas/gestion_formations:php       
+    image: arijkortas/gestion_formations:php
+    container_name: phpC
     ports: ['9000:9000']
     volumes: ['./app/:/var/www/app:cached']
   nginx:
-    image : arijkortas/gestion_formations:nginx
+    image: arijkortas/gestion_formations:nginx
     ports: ['80:80']
     volumes: ['./app/:/var/www/app:cached']
   db:
-    image : arijkortas/gestion_formations:mysql
+    image: mysql:latest
     environment:
       MYSQL_ROOT_PASSWORD: example
       MYSQL_DATABASE: db_formation
@@ -18,7 +19,7 @@ services:
     ports:
       - '3306:3306'
   phpmyadmin:
-    image : arijkortas/gestion_formations:phpmyadmin
+    image: phpmyadmin/phpmyadmin
     links:
       - db
     ports:

@@ -149,6 +149,6 @@ class __TwigTemplate_1f174e777642c789cb7f7e8e6c8c78f66d7ab8ee1a3866243faff23af46
         <button class=\"btn btn-primary\">{{ options.button }}</button>
     </div>
 </form>
-", "@KnpPaginator/Pagination/bootstrap_v5_filtration.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\vendor\\knplabs\\knp-paginator-bundle\\templates\\Pagination\\bootstrap_v5_filtration.html.twig");
+", "@KnpPaginator/Pagination/bootstrap_v5_filtration.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\vendor\\knplabs\\knp-paginator-bundle\\templates\\Pagination\\bootstrap_v5_filtration.html.twig");
     }
 }

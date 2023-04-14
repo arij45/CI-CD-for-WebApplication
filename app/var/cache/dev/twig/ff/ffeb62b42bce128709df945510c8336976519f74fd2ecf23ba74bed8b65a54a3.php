@@ -132,6 +132,6 @@ class __TwigTemplate_5ec4c984047a78d07d6e56a378f673e380f1c13e857295574f72faf9071
     {{ include('suggestions/_form.html.twig') }}
 
 {% endblock %}
-", "suggestions/new.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\suggestions\\new.html.twig");
+", "suggestions/new.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\suggestions\\new.html.twig");
     }
 }

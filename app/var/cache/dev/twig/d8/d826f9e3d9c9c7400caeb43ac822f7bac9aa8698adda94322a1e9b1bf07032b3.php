@@ -233,6 +233,6 @@ class __TwigTemplate_f6db2b1a1bc311c0eb8f5722effbe70c89cac839abac2e860c434e0aca7
     <br>
         {{ knp_pagination_render(commentaires) }}
 {% endblock %}
-", "commentaires/index.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\commentaires\\index.html.twig");
+", "commentaires/index.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\commentaires\\index.html.twig");
     }
 }

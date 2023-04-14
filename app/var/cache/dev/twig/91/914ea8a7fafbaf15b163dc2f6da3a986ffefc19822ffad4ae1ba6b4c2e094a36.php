@@ -264,6 +264,6 @@ class __TwigTemplate_2afd8a85eeca2d06dac9defa93e14df6924b2808f0db681ec0fd891f26c
 
    
 {% endblock %}
-", "formateurs/index.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\formateurs\\index.html.twig");
+", "formateurs/index.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\formateurs\\index.html.twig");
     }
 }

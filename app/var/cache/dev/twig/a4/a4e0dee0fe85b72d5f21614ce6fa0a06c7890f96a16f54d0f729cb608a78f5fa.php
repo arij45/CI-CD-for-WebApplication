@@ -710,6 +710,6 @@ class __TwigTemplate_97fdf668fa183222afdbfbae66eaf39a2490b07b9d9b05359cf3a13f9ce
         <td class=\"font-normal\">{{ migration.execution_time|default('n/a') }}</td>
     </tr>
 {% endmacro %}
-", "@DoctrineMigrations/Collector/migrations.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\vendor\\doctrine\\doctrine-migrations-bundle\\Resources\\views\\Collector\\migrations.html.twig");
+", "@DoctrineMigrations/Collector/migrations.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\vendor\\doctrine\\doctrine-migrations-bundle\\Resources\\views\\Collector\\migrations.html.twig");
     }
 }

@@ -140,6 +140,6 @@ class __TwigTemplate_33d0ee2082c255d95efd55421090d83e127981de0ead8b360435a9e696b
 
     {{ include('inscription/_delete_form.html.twig') }}
 {% endblock %}
-", "inscription/edit.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\inscription\\edit.html.twig");
+", "inscription/edit.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\inscription\\edit.html.twig");
     }
 }

@@ -200,6 +200,6 @@ class __TwigTemplate_fddf8160f496c9e837a266f0c85eaf629b55b42c65989ab26bbb456b057
     <a href=\"{{ path('messages_index') }}\">retour vers la liste des messages</a>
     {{ include('messages/_delete_form.html.twig') }}
 {% endblock %}
-", "messages/show.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\messages\\show.html.twig");
+", "messages/show.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\messages\\show.html.twig");
     }
 }

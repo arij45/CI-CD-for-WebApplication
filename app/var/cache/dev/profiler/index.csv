@@ -3253,3 +3253,12 @@ adb28d,172.20.0.1,GET,http://localhost/,1680072963,,404
 f731c7,172.18.0.1,GET,http://localhost/,1680087944,,404
 20d145,172.18.0.1,GET,http://localhost/Hello,1680088002,,200
 e20bac,172.18.0.1,GET,http://localhost/login,1680088022,,200
+d55008,172.18.0.1,GET,http://localhost/,1681315389,,404
+9e970c,172.18.0.1,GET,http://localhost/,1681339478,,404
+c8a79f,172.18.0.1,GET,http://localhost/admin,1681339501,,200
+97cbee,172.18.0.1,GET,http://localhost/formateurs/,1681339534,287077,500
+287077,172.18.0.1,GET,http://localhost/formateurs/,1681339534,,500
+fa9254,172.18.0.1,GET,http://localhost/suggestions/,1681339563,eec0e4,500
+eec0e4,172.18.0.1,GET,http://localhost/suggestions/,1681339563,,500
+1b4a5e,172.18.0.1,GET,http://localhost/Hello,1681339643,,200
+5a2026,172.18.0.1,GET,http://localhost/Hello,1681342480,,200

@@ -84,6 +84,6 @@ class __TwigTemplate_e33ba99ccd0dd1d01d611c164826ccd49b7cbdc3dce63264bb98f857242
     {{ form_widget(form) }}
 <button class=\"btn\">{{ button_label|default('Enregistrer') }}</button>
 {{ form_end(form) }}
-", "formateurs/_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\formateurs\\_form.html.twig");
+", "formateurs/_form.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\formateurs\\_form.html.twig");
     }
 }

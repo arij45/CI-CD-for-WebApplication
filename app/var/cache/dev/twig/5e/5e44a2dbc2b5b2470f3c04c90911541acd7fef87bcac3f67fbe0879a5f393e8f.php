@@ -150,6 +150,6 @@ class __TwigTemplate_8f50de5b727e03bf32ddaa298e54ede032c1ce561da3a4e5d9d7c8c93b4
             </div>
         </div>
     </div>
- {% endblock %}", "about.html.twig", "C:\\Users\\arijkortas\\Desktop\\projet1\\templates\\about.html.twig");
+ {% endblock %}", "about.html.twig", "C:\\Users\\arijkortas\\Desktop\\gestion_formations\\app\\templates\\about.html.twig");
     }
 }
