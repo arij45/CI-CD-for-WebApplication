@@ -72,18 +72,21 @@ class __TwigTemplate_073cf5d7228fbd760cf120a9b5e7fe16 extends Template
                   <div style=\"margin-left: 50%;\" class=\"col-md-6 white-text text-center text-md-left mt-xl-5 mb-5 wow fadeInLeft\" data-wow-delay=\"0.3s\">
                     <h1 class=\"h1-responsive font-weight-bold mt-sm-5\" style=\"color: #07294d\">GoFormations </h1>
                     <hr class=\"hr-light\">
-                    <h5 class=\"mb-4\" style=\"color:white;\">ar d'apprentissage 100% en ligne. Inscrivez-vous pour découvrir les différents cours proposés et bénéficier d'une expérience e-learning enrichissante ! Si vous êtes déjà enregistrés, connectez vous.</h5>
+<<<<<<< HEAD
+                    <h5 class=\"mb-4\" style=\"color:white;\">lokijh d'apprentissage 100% en ligne. Inscrivez-vous pour découvrir les différents cours proposés et bénéficier d'une expérience e-learning enrichissante ! Si vous êtes déjà enregistrés, connectez vous.</h5>
+=======
+                    <h5 class=\"mb-4\" style=\"color:white;\">jkkkkjnoll,,prentissage 100% en ligne. Inscrivez-vous pour découvrir les différents cours proposés et bénéficier d'une expérience e-learning enrichissante ! Si vous êtes déjà enregistrés, connectez vous.</h5>
+>>>>>>> 4e256e7d00b7aea78697035aa8b5d7e6dd250aa0
                     <a href=\"";
-        // line 12
+        // line 16
         echo $this->extensions['Symfony\Bridge\Twig\Extension\RoutingExtension']->getPath("login");
         echo "\" style=\"color:rgb(100, 212, 231);\" class=\"btn btn-white\"><b>Se connecter</b></a>
                     <a href=\"";
-        // line 13
+        // line 17
         echo $this->extensions['Symfony\Bridge\Twig\Extension\RoutingExtension']->getPath("app_register");
         echo "\" style=\"color:rgb(100, 212, 231);\" class=\"btn btn-white\"><b>S'inscrire</b></a>
-";
-        // line 15
-        echo "                  </div>
+                   <a href=\"/suggestions/new2\" style=\"color:rgb(100, 212, 231);\" class=\"btn btn-outline-white\"><b>Proposez des formations de vos choix</b></a>
+                  </div>
                   <div class=\"col-md-6 col-xl-5 mt-xl-5 wow fadeInRight\" data-wow-delay=\"0.3s\">
                   </div>
                 </div>
@@ -96,7 +99,7 @@ class __TwigTemplate_073cf5d7228fbd760cf120a9b5e7fe16 extends Template
             h5 {
                 background: #07294d;
                 opacity: .6;
-                border-radius:5px;
+                border-radius:9px;
                 font-size: 1.17rem;
                 
             }
@@ -122,7 +125,7 @@ class __TwigTemplate_073cf5d7228fbd760cf120a9b5e7fe16 extends Template
 
     public function getDebugInfo()
     {
-        return array (  86 => 15,  82 => 13,  78 => 12,  68 => 4,  58 => 3,  35 => 1,);
+        return array (  86 => 17,  82 => 16,  68 => 4,  58 => 3,  35 => 1,);
     }
 
     public function getSourceContext()
@@ -137,10 +140,14 @@ class __TwigTemplate_073cf5d7228fbd760cf120a9b5e7fe16 extends Template
                   <div style=\"margin-left: 50%;\" class=\"col-md-6 white-text text-center text-md-left mt-xl-5 mb-5 wow fadeInLeft\" data-wow-delay=\"0.3s\">
                     <h1 class=\"h1-responsive font-weight-bold mt-sm-5\" style=\"color: #07294d\">GoFormations </h1>
                     <hr class=\"hr-light\">
-                    <h5 class=\"mb-4\" style=\"color:white;\">ar d'apprentissage 100% en ligne. Inscrivez-vous pour découvrir les différents cours proposés et bénéficier d'une expérience e-learning enrichissante ! Si vous êtes déjà enregistrés, connectez vous.</h5>
+<<<<<<< HEAD
+                    <h5 class=\"mb-4\" style=\"color:white;\">lokijh d'apprentissage 100% en ligne. Inscrivez-vous pour découvrir les différents cours proposés et bénéficier d'une expérience e-learning enrichissante ! Si vous êtes déjà enregistrés, connectez vous.</h5>
+=======
+                    <h5 class=\"mb-4\" style=\"color:white;\">jkkkkjnoll,,prentissage 100% en ligne. Inscrivez-vous pour découvrir les différents cours proposés et bénéficier d'une expérience e-learning enrichissante ! Si vous êtes déjà enregistrés, connectez vous.</h5>
+>>>>>>> 4e256e7d00b7aea78697035aa8b5d7e6dd250aa0
                     <a href=\"{{ path('login') }}\" style=\"color:rgb(100, 212, 231);\" class=\"btn btn-white\"><b>Se connecter</b></a>
                     <a href=\"{{ path('app_register') }}\" style=\"color:rgb(100, 212, 231);\" class=\"btn btn-white\"><b>S'inscrire</b></a>
-{#                    <a href=\"/suggestions/new2\" style=\"color:rgb(100, 212, 231);\" class=\"btn btn-outline-white\"><b>Proposez des formations de vos choix</b></a>#}
+                   <a href=\"/suggestions/new2\" style=\"color:rgb(100, 212, 231);\" class=\"btn btn-outline-white\"><b>Proposez des formations de vos choix</b></a>
                   </div>
                   <div class=\"col-md-6 col-xl-5 mt-xl-5 wow fadeInRight\" data-wow-delay=\"0.3s\">
                   </div>
@@ -154,7 +161,7 @@ class __TwigTemplate_073cf5d7228fbd760cf120a9b5e7fe16 extends Template
             h5 {
                 background: #07294d;
                 opacity: .6;
-                border-radius:5px;
+                border-radius:9px;
                 font-size: 1.17rem;
                 
             }
