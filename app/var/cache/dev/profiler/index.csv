@@ -3278,3 +3278,9 @@ a4f3d7,172.18.0.1,POST,http://localhost/login?id=1,1681603512,,302
 8194bb,172.18.0.1,GET,http://localhost/messages/new2,1681603545,,200
 d70edf,172.18.0.1,POST,http://localhost/messages/new2,1681603592,,302
 aae7a8,172.18.0.1,GET,http://localhost/etudiant,1681603601,,200
+a650ad,172.18.0.1,GET,http://localhost/,1681635129,,404
+d46241,172.18.0.1,GET,http://localhost/admin,1681635157,,200
+a889fb,172.18.0.1,GET,http://localhost/Accueil,1681635198,,200
+2e8e2e,172.18.0.1,GET,http://localhost/admin,1681635243,,200
+6bb71a,172.18.0.1,GET,http://localhost/registration,1681635263,,200
+c8a375,172.18.0.1,GET,http://localhost/Hello,1681635278,,200
